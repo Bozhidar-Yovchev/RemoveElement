@@ -1,0 +1,7 @@
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Remove Element\bin\Debug\Remove Element.exe.config
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Remove Element\bin\Debug\Remove Element.exe
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Remove Element\bin\Debug\Remove Element.pdb
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Remove Element\obj\Debug\Remove Element.csproj.AssemblyReference.cache
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Remove Element\obj\Debug\Remove Element.csproj.CoreCompileInputs.cache
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Remove Element\obj\Debug\Remove Element.exe
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Remove Element\obj\Debug\Remove Element.pdb
